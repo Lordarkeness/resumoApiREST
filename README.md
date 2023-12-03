@@ -8,7 +8,7 @@
 
 ## Diferenças entre REST e RESTFul
 
- **REST**: É um conjunto de princípios que definem como os serviços web devem funcionar. Ele estabelece diretrizes sobre como os sistemas devem se comunicar na web, como usar URIs para identificar recursos, como usar os métodos HTTP corretos (GET, POST, PUT, DELETE) para interagir com esses recursos e como representar os dados retornados, geralmente em JSON ou XML.
+ **REST**: É um conjunto de princípios que definem como os serviços web devem funcionar. Ele estabelece diretrizes sobre como os sistemas devem se comunicar na web, como usar URIs para identificar recursos, como usar os métodos HTTP corretos, como GET, POST, PUT, DELETE, para interagir com esses recursos e como representar os dados retornados, geralmente em JSON ou XML.
 
 **RESTFul**: Refere-se à aplicação desses princípios do REST em um sistema ou em uma API específica. Quando uma API ou serviço web segue todas as orientações do REST, pode ser chamada de RESTful. Em resumo, ser RESTFul significa seguir todas as regras e princípios do REST ao criar uma API ou um sistema online.
 
