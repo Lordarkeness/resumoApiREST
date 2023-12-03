@@ -18,7 +18,7 @@ HTTP verbs são a base para interações entre clientes e servidores na web. Ele
 
 ## HTTP STATUS code
 
-HTTP Status code são mensagens que os servidores web enviam para indicar o resultado de uma solicitação. Eles podem ser divididos em cinco categorias: informativo, sucesso, redirecionamento, erro do cliente e erro do servidor. Cada código fornece uma informação rápida sobre o resultado da requisição, como sucesso, erro do cliente (como uma URL incorreta) ou erro do servidor (como uma falha interna no servidor).
+HTTP Status code são mensagens que os servidores web enviam para indicar o resultado de uma solicitação. Eles podem ser divididos em cinco categorias: informativo, sucesso, redirecionamento, erro do cliente e erro do servidor. Cada código fornece uma informação rápida sobre o resultado da requisição, como sucesso, erro do cliente ou erro do servidor.
 
 ---
 
